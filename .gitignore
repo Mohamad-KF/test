@@ -1,3 +1,5 @@
 #comment
 *.tmp
 temp/
+docs/phase*/
+!docs/phase1/
